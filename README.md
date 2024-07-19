@@ -1,1 +1,1 @@
-In this code uses CNN to predict copper price
+this code use CNN to predict copper price
